@@ -22,5 +22,5 @@ Implementation of https://arxiv.org/abs/1710.08864 on MNIST
 
 Finally, I got ten random images of class 2 and used the algorithm to find adversarial examples that cause the model to misclassify the class to 6.
 
-![example_image]: (https://github.com/anshu92/single_pixel_adversarial/blob/master/output_debug.png "Example Image")
+![example_image](https://github.com/anshu92/single_pixel_adversarial/blob/master/output_debug.png "Example Image")
 
